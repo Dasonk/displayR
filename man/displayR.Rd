@@ -7,7 +7,7 @@
 displayR()
 }
 \description{
-Displays a capital R
+Displays a capital R.
 }
 \examples{
 displayR()
