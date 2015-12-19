@@ -1,0 +1,10 @@
+Package: displayR
+Type: Package
+Title: Displays a big R in the console
+Version: 1.0
+Date: 2015-12-19
+Author: Dason Kurkiewicz
+Maintainer: Dason Kurkiewicz <dasonk@gmail.com>
+Description: Displays a big R in the console.
+License: MIT + file LICENSE
+RoxygenNote: 5.0.1
